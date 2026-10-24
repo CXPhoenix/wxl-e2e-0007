@@ -33,6 +33,7 @@
 /zh/c/008    /zh-TW/challenge/just-a-preview/     302
 /c/010       /challenge/selected-excerpts/        302
 /zh/c/010    /zh-TW/challenge/selected-excerpts/  302
+/c/011       /challenge/v05-php-check/            302
 
 # Slug short links for classroom use — students can be given /c/<slug> to type
 # or paste rather than the full /challenge/<slug>/ path. Parameterised, so they
