@@ -1,0 +1,7 @@
+{
+  "upstream": {
+    "repository": "BrowserLaboratory/wxl-platform",
+    "version": "3.0.0",
+    "commit": "f12aba221b48760399777ea584ad60f1cad671fb"
+  }
+}
